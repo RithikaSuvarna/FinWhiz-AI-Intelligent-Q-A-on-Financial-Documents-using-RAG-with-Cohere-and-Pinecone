@@ -1,0 +1,2 @@
+# FinWhiz-AI-Intelligent-Q-A-on-Financial-Documents-using-RAG-with-Cohere-and-Pinecone
+FinWhiz AI is a lightweight, Streamlit-based application that enables users to upload financial documents (PDF or TXT) and ask questions about their content. It uses Retrieval-Augmented Generation (RAG) with Cohere's large language models and Pinecone vector database to provide intelligent, context-aware answers in real time.
